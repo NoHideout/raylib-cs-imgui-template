@@ -1,0 +1,4 @@
+Place your project assets here (textures, fonts, audio files, shaders). 
+The .csproj file is configured to automatically copy the contents of this folder to the output directory upon building.
+
+You can safely delete this .placeholder file once you begin adding your own assets.
