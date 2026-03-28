@@ -1,5 +1,19 @@
+# Build results
 bin/
 obj/
 /packages/
+
+# Rider / ReSharper
 riderModule.iml
 /_ReSharper.Caches/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# VS Code
+.vscode/
+
+# Mac OS
+.DS_Store
