@@ -5,5 +5,14 @@
   "name": "Raylib-CS ImGui Template",
   "shortName": "raylib-imgui",
   "sourceName": "raylib_cs_imgui_template",
-  "preferNameDirectory": true
+  "preferNameDirectory": true,
+  "sources": [
+    {
+      "modifiers": [
+        {
+          "exclude": [ ".git/**", "README.md"]
+        }
+      ]
+    }
+  ]
 }
